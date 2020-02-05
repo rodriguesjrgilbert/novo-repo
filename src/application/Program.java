@@ -9,6 +9,7 @@ public class Program {
 		System.out.println("Boa noite!");
 		System.out.println("Saudações!");
 		System.out.println("Como está o clima tempo hoje?");
+		System.out.println("Qual a noticia de hoje?");
 	}
 
 }
